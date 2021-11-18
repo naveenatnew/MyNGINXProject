@@ -1,7 +1,6 @@
 # MyNGINXProject!
-[App1](https://user-images.githubusercontent.com/42107454/142398306-76bd5878-40b7-4c19-9dfd-6f471f9674f6.JPG)
+![App1](https://user-images.githubusercontent.com/42107454/142400139-83b598e9-3ace-4d2d-8c5a-999a33458341.JPG)
+![App2](https://user-images.githubusercontent.com/42107454/142400199-84eac40b-111d-410e-94e2-75036375dafc.JPG)
 
 
 
-
-[App2](https://user-images.githubusercontent.com/42107454/142399802-717441c3-921f-40b2-b933-910f716cedc6.JPG)
